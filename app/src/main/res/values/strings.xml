@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="temparature">Temparature</string>
+    <string name="condition">Condition</string>
+    <string name="location">Location</string>
+    <string name="title_activity_setting_page">SettingPage</string>
+    <string-array name="unit">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
