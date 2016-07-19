@@ -36,16 +36,20 @@
         "source": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
-    },
-    {
         "merged": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_page.xml",
         "source": "E:\\Android\\WeatherApp\\app\\src\\main\\res\\layout\\activity_setting_page.xml"
     },
     {
+        "merged": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
         "merged": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout.xml",
+        "source": "E:\\Android\\WeatherApp\\app\\src\\main\\res\\layout\\list_item_layout.xml"
     },
     {
         "merged": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",

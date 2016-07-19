@@ -8,6 +8,10 @@
         "source": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh.png",
+        "source": "E:\\Android\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_refresh.png"
+    },
+    {
         "merged": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_44.png",
         "source": "E:\\Android\\WeatherApp\\app\\src\\main\\res\\drawable\\icon_44.png"
     },
@@ -20,12 +24,12 @@
         "source": "E:\\Android\\WeatherApp\\app\\src\\main\\res\\drawable\\icon_0.png"
     },
     {
-        "merged": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
-    },
-    {
         "merged": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_21.png",
         "source": "E:\\Android\\WeatherApp\\app\\src\\main\\res\\drawable\\icon_21.png"
+    },
+    {
+        "merged": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "E:\\Android\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",

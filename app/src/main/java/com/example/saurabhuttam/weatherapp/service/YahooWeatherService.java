@@ -32,13 +32,13 @@ public class YahooWeatherService {
         return location;
     }
 
-    public void refreshWeather(final String location)
+    public void refreshWeather(final String location,final String unit)
     {
         this.location=location;
         new AsyncTask<String, Void, String>() {
             @Override
             protected String doInBackground(String... params) {
-                String YQL=String.format("select * from weather.forecast where woeid in (select woeid from geo.places(1) where text=\"%s\") and u='c'",params[0]);
+                String YQL=String.format("select * from weather.forecast where woeid in (select woeid from geo.places(1) where text=\"%s\") and u='%s'",params[0],unit);
                 String endpoint=String.format("https://query.yahooapis.com/v1/public/yql?q=%s&format=json", Uri.encode(YQL));
 
                 try {
